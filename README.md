@@ -1,4 +1,4 @@
-## 基于Springboot+vue的在线考试系统(源代码+LW+PPT+数据库)
+## 基于Springboot+vue的班级综合测评管理系统(源代码+LW+PPT+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
@@ -51,24 +51,20 @@
 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
 ## 四、页面截图
-![图片](https://github.com/user-attachments/assets/a4f53422-751b-4023-8203-19c77c4b6e00)
-![图片](https://github.com/user-attachments/assets/bdb8b05a-63a6-46e4-a968-1dc28f5985f6)
-![图片](https://github.com/user-attachments/assets/0f697ba1-f962-4ce5-b3ea-b711e9c4d7d6)
-![图片](https://github.com/user-attachments/assets/f0d19722-1c6e-4fff-baa7-62ac2af4c30b)
-![图片](https://github.com/user-attachments/assets/a22481dc-8196-49d7-a42a-0bcce299e89f)
-![图片](https://github.com/user-attachments/assets/f66659d9-de86-4641-b45b-eaee70e24dcb)
-![图片](https://github.com/user-attachments/assets/2337a51d-5db2-47e6-ad5c-b8fdd1dc2a6e)
-![图片](https://github.com/user-attachments/assets/ae87675e-95cf-4c5a-8e2e-93630390a665)
-![图片](https://github.com/user-attachments/assets/d1daac7a-689d-4f36-ab42-a5c457bb088c)
-![图片](https://github.com/user-attachments/assets/3ed8b0bf-bdbc-48a0-9204-5b918570c898)
-![图片](https://github.com/user-attachments/assets/27741010-39a9-4c6a-8c1d-3b103b0c5c79)
-![图片](https://github.com/user-attachments/assets/d4573086-f2e4-4051-99ef-57ce8e8f9ef9)
-![图片](https://github.com/user-attachments/assets/030006a5-fe87-4558-a115-c65de6cf6941)
-![图片](https://github.com/user-attachments/assets/f4383f88-f905-4bd8-beb6-4bc4fbc19eea)
-![图片](https://github.com/user-attachments/assets/bf4e8623-9ee0-4f20-b4ea-8663b59a9c7b)
-![图片](https://github.com/user-attachments/assets/d86daa05-0126-4fd7-be63-0f3f5e7b9d67)
-![图片](https://github.com/user-attachments/assets/64bce0d8-22e1-4330-b26c-233a9e45f37c)
-
+![图片](https://github.com/user-attachments/assets/df6035e7-96d4-4da0-9577-07251a717c4b)
+![图片](https://github.com/user-attachments/assets/873e0076-b13f-4c60-9470-33909febc8be)
+![图片](https://github.com/user-attachments/assets/71c4808c-7a24-410d-9fee-6e699d1a14bf)
+![图片](https://github.com/user-attachments/assets/442f73bd-ce35-4572-a292-337c9c417a64)
+![图片](https://github.com/user-attachments/assets/e369cdec-dd92-4328-a0f9-26e271062c41)
+![图片](https://github.com/user-attachments/assets/07496450-5a7e-42a3-bdd6-c5d1ef4c36cf)
+![图片](https://github.com/user-attachments/assets/333e4ece-e03a-42ff-84ac-68677f417533)
+![图片](https://github.com/user-attachments/assets/5be50910-3c50-4681-983d-5546df6b1137)
+![图片](https://github.com/user-attachments/assets/599025e0-924f-4c18-9ae5-02a1a5481eb6)
+![图片](https://github.com/user-attachments/assets/b8f29933-62b7-4bd6-9c20-db7df62d99c1)
+![图片](https://github.com/user-attachments/assets/e87ac686-c70b-458a-9dfc-b41f4227a426)
+![图片](https://github.com/user-attachments/assets/6636fc9a-148b-4caf-bf11-25a7cd4e0128)
+![图片](https://github.com/user-attachments/assets/94e45e39-f295-4725-aa68-cfcb2e92426d)
+![Uploading 图片.png…]()
 
 ## 五、浏览地址
 
